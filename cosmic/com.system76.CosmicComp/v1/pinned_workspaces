@@ -1,0 +1,29 @@
+[
+    (
+        output: (
+            name: "eDP-1",
+            edid: None,
+        ),
+        tiling_enabled: false,
+        id: Some("1d5150a"),
+        name: None,
+    ),
+    (
+        output: (
+            name: "eDP-1",
+            edid: None,
+        ),
+        tiling_enabled: false,
+        id: Some("15eeb57"),
+        name: None,
+    ),
+    (
+        output: (
+            name: "eDP-1",
+            edid: None,
+        ),
+        tiling_enabled: false,
+        id: Some("1083d3"),
+        name: None,
+    ),
+]

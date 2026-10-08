@@ -1,0 +1,46 @@
+[
+    (
+        app_id: "org.gnome.baobab",
+        launch_count: 1,
+    ),
+    (
+        app_id: "gparted",
+        launch_count: 1,
+    ),
+    (
+        app_id: "org.gnome.DiskUtility",
+        launch_count: 2,
+    ),
+    (
+        app_id: "steam",
+        launch_count: 6,
+    ),
+    (
+        app_id: "org.prismlauncher.PrismLauncher",
+        launch_count: 1,
+    ),
+    (
+        app_id: "librewolf",
+        launch_count: 1,
+    ),
+    (
+        app_id: "nvidia-settings",
+        launch_count: 2,
+    ),
+    (
+        app_id: "discord",
+        launch_count: 2,
+    ),
+    (
+        app_id: "debian-xterm",
+        launch_count: 1,
+    ),
+    (
+        app_id: "com.system76.CosmicViewer",
+        launch_count: 1,
+    ),
+    (
+        app_id: "com.system76.CosmicMonitor",
+        launch_count: 2,
+    ),
+]
